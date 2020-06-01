@@ -1,2 +1,2 @@
 # RecomendationSystem
-Preformes recomendations using association rules and logict regrssions
+Performs recomendations using association rules and logistic regression
